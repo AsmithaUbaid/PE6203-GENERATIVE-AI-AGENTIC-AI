@@ -1,0 +1,41 @@
+case_id,file_exists,filename_matches_case_id,policy_ids_exist,decision_missing_info_consistent,overall_pass,validation_note
+DEV001,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+DEV002,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+DEV003,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+DEV004,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+DEV005,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+DEV006,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+DEV007,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+DEV008,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+DEV009,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+DEV010,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL001,True,True,True,True,True,Rebalanced: replaced a redundant APPROVE case with a new ESCALATE scenario to fix eval-set decision-label imbalance (1/20 -> 4/20 ESCALATE).
+EVAL002,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL003,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL004,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL005,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL006,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL007,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL008,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL009,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL010,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL011,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL012,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL013,True,True,True,True,True,Rebalanced: replaced a redundant APPROVE case with a new ESCALATE scenario to fix eval-set decision-label imbalance (1/20 -> 4/20 ESCALATE).
+EVAL014,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL015,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL016,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL017,True,True,True,True,True,Rebalanced: replaced a redundant APPROVE case with a new ESCALATE scenario to fix eval-set decision-label imbalance (1/20 -> 4/20 ESCALATE).
+EVAL018,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL019,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+EVAL020,True,True,True,True,True,Manually aligned to the receipt image and policy rules.
+DEV011,True,True,True,True,True,Added to cover a dataset-coverage gap (PARTIAL quality / inactive employee / no-receipt-under-threshold / unused policy / insufficient policy evidence).
+DEV012,True,True,True,True,True,Added to cover a dataset-coverage gap (PARTIAL quality / inactive employee / no-receipt-under-threshold / unused policy / insufficient policy evidence).
+DEV013,True,N/A (no receipt required),True,True,True,Added to cover a dataset-coverage gap (PARTIAL quality / inactive employee / no-receipt-under-threshold / unused policy / insufficient policy evidence).
+DEV014,True,True,True,True,True,Added to cover a dataset-coverage gap (PARTIAL quality / inactive employee / no-receipt-under-threshold / unused policy / insufficient policy evidence).
+DEV015,True,True,True,True,True,Added to cover a dataset-coverage gap (PARTIAL quality / inactive employee / no-receipt-under-threshold / unused policy / insufficient policy evidence).
+DEV016,True,True,True,True,True,Added to cover a dataset-coverage gap (PARTIAL quality / inactive employee / no-receipt-under-threshold / unused policy / insufficient policy evidence).
+DEV017,True,True,True,True,True,Added to cover a dataset-coverage gap (PARTIAL quality / inactive employee / no-receipt-under-threshold / unused policy / insufficient policy evidence).
+DEV018,True,True,True,True,True,Added to cover a dataset-coverage gap (PARTIAL quality / inactive employee / no-receipt-under-threshold / unused policy / insufficient policy evidence).
+DEV019,True,True,True,True,True,Added to cover escalate/conflicting-policy and prompt-injection test coverage gaps.
+DEV020,True,True,True,True,True,Added to cover escalate/conflicting-policy and prompt-injection test coverage gaps.

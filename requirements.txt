@@ -1,0 +1,12 @@
+jupyter
+notebook
+pandas
+numpy
+matplotlib
+openai
+python-dotenv
+Pillow
+tiktoken
+sentence-transformers
+reportlab
+pypdf

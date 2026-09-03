@@ -1,0 +1,21 @@
+case_id,gt_policy_ids,retrieved_embedding,hit_embedding,retrieved_keyword,hit_keyword
+DEV001,['POL-02'],"['POL-03', 'POL-04', 'POL-19']",False,"['POL-06', 'POL-08', 'POL-14']",False
+DEV002,['POL-10'],"['POL-23', 'POL-10', 'POL-25']",True,"['POL-23', 'POL-05', 'POL-06']",False
+DEV003,['POL-03'],"['POL-03', 'POL-19', 'POL-04']",True,"['POL-04', 'POL-05', 'POL-06']",False
+DEV004,['POL-05'],"['POL-05', 'POL-07', 'POL-35']",True,"['POL-05', 'POL-06', 'POL-35']",True
+DEV005,['POL-02'],"['POL-03', 'POL-04', 'POL-30']",False,"['POL-06', 'POL-08', 'POL-29']",False
+DEV006,['POL-10'],"['POL-31', 'POL-10', 'POL-11']",True,"['POL-23', 'POL-05', 'POL-06']",False
+DEV007,['POL-17'],"['POL-32', 'POL-24', 'POL-17']",True,"['POL-17', 'POL-04', 'POL-05']",True
+DEV008,['POL-12'],"['POL-12', 'POL-27', 'POL-03']",True,"['POL-06', 'POL-03', 'POL-08']",False
+DEV009,['POL-03'],"['POL-03', 'POL-30', 'POL-04']",True,"['POL-03', 'POL-06', 'POL-19']",True
+DEV010,['POL-17'],"['POL-32', 'POL-17', 'POL-27']",True,"['POL-04', 'POL-06', 'POL-13']",False
+DEV011,"['POL-02', 'POL-16']","['POL-03', 'POL-04', 'POL-02']",True,"['POL-06', 'POL-15', 'POL-16']",True
+DEV012,[],"['POL-35', 'POL-05', 'POL-18']",,"['POL-05', 'POL-35', 'POL-06']",
+DEV013,"['POL-18', 'POL-01']","['POL-18', 'POL-11', 'POL-20']",True,"['POL-02', 'POL-05', 'POL-07']",False
+DEV014,['POL-08'],"['POL-08', 'POL-17', 'POL-30']",True,"['POL-08', 'POL-06', 'POL-03']",True
+DEV015,['POL-11'],"['POL-23', 'POL-11', 'POL-13']",True,"['POL-13', 'POL-11', 'POL-23']",True
+DEV016,['POL-19'],"['POL-27', 'POL-30', 'POL-19']",True,"['POL-19', 'POL-03', 'POL-05']",True
+DEV017,[],"['POL-22', 'POL-27', 'POL-11']",,"['POL-05', 'POL-06', 'POL-11']",
+DEV018,"['POL-03', 'POL-20']","['POL-03', 'POL-30', 'POL-19']",True,"['POL-02', 'POL-05', 'POL-07']",False
+DEV019,['POL-02'],"['POL-03', 'POL-04', 'POL-30']",False,"['POL-13', 'POL-04', 'POL-07']",False
+DEV020,"['POL-02', 'POL-04']","['POL-03', 'POL-04', 'POL-27']",True,"['POL-19', 'POL-05', 'POL-06']",False

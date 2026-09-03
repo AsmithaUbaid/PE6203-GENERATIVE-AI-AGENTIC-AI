@@ -1,0 +1,7 @@
+employee_id,name,email,department,role,status
+E001,Alice Tan,alice.tan@meridian.example,Sales,EMPLOYEE,ACTIVE
+E002,Ben Lim,ben.lim@meridian.example,Engineering,EMPLOYEE,ACTIVE
+E003,Cheryl Ng,cheryl.ng@meridian.example,Marketing,EMPLOYEE,ACTIVE
+E004,Daniel Lee,daniel.lee@meridian.example,Finance,FINANCE_REVIEWER,ACTIVE
+E005,Farah Rahman,farah.rahman@meridian.example,Operations,EMPLOYEE,ACTIVE
+E006,Tom Wong,tom.wong@meridian.example,Sales,EMPLOYEE,INACTIVE

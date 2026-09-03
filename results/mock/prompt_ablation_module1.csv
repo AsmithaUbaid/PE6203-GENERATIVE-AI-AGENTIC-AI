@@ -1,0 +1,3 @@
+condition,field_accuracy
+Zero-shot,0.825
+Few-shot (default),0.925

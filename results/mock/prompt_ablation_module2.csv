@@ -1,0 +1,4 @@
+condition,decision_accuracy
+Zero-shot,0.55
+"Few-shot, v1 prompt (current default)",0.95
+"Few-shot, v2 prompt (hardened)",0.9
