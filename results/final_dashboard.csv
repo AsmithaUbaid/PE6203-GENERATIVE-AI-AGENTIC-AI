@@ -1,0 +1,18 @@
+Metric,Value
+Module 1 -- Recall@3 (dev set),0.889
+"Module 1 -- Recall@3 (final-eval, held out)",0.806
+Module 2 -- C-V1 decision accuracy,60.0%
+Module 2 -- C-V2 decision accuracy,75.0%
+Macro-F1 -- C-V1,0.603
+Macro-F1 -- C-V2,0.756
+Grounding (C-V1),75.0%
+Safe uncertainty (C-V1),75.0%
+OCR -- date/amount/currency accuracy,100% / 100% / 100%
+OCR -- merchant accuracy,87.2%
+"Avg API cost / claim (measured, primary system)",$0.00035
+"Avg latency / claim (measured, primary system)",1844 ms
+Safe automation rate,20.0%
+Estimated throughput (assumed workers),"19,527 claims/hr"
+Estimated annual operating savings (scenario),"SGD 40,643"
+"Estimated annual failure cost (scenario, primary system)","SGD 450,000"
+"Total API spend, this experiment",$0.0000 / $2.00 budget

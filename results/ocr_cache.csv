@@ -1,0 +1,1182 @@
+case_id,text,success,engine,error,latency_ms,parsed_merchant,parsed_date,parsed_total_amount,parsed_currency,parsed_billed_to,parsed_line_items
+DEV001,"-TOAST &_
+KOPI HOUSE
+Toast & Kopi House
+313 Somerset
+313 Orchard Road, #B3-06/07
+Si ngapore 238895
+Tel: +65 6235 8156
+GST Reg No.
+202012345D
+DATE
+RECEIPT NO
+TABLE
+CASHIER
+2026-09-04 19.18; 35
+EVAL002-0904-0018
+18
+Nurul
+QTY DESCRIPTION
+AMOUNT (SGD)
+Dinner set
+39.50
+SUBTOTAL
+10% SERVICE CHARGE
+9% GST
+39.50
+0.00
+0.00
+TOTAL
+SGD 39.50
+PAYMENT METHOD
+CARD NO.
+APPROVAL CODE
+REFERENCE NO,
+Visa
+**** **** **** 1234
+SGD 39.50
+872645
+20260904191835264
+Thank you I
+Please come again.
+www. toastkopi house. com",True,vision,,179.80749999969703,-TOAST &_,2026-09-04,39.5,SGD,,"[{""description"": ""Dinner set"", ""amount"": 39.5}]"
+DEV002,"Q Orchard Digital
+Orchard Digital Pte. Ltd.
+313 Orchard Road
+#B2-01, Orchard Gateway
+Singapore 238895
+Tel.. +65 6235 6789
+GST Reg No.: 202108765H
+TAX INVOICE
+Receipt No.
+Date
+Time
+Cashier
+Store
+EVAL004-260906-0012
+2026-09-06
+15:22:17
+Jason Lim
+Orchard Gateway
+Qty
+Description
+Amount (SGD)
+USB-C dock
+189.00
+Subtotal
+GST (9Y.)
+SGD 189.00
+SGD 17.01
+TOTAL
+SGD 189.00
+PAYMENT
+Visa
+Card No.
+**** **** **** 1234
+Approval Code
+125678
+Reference No.
+609060152217
+SGD 189.00
+Thank you for shopping with usl
+Please retain this receipt for your records.
+www.orcharddigital. sg",True,vision,,116.14558299970668,Q Orchard Digital,2026-09-06,189.0,SGD,,"[{""description"": ""USB-C dock"", ""amount"": 189.0}]"
+DEV003,"Orchid
+DUMPLING HOUSE
+MfL,J,
+Orchid Dumpling House Pte. Ltd.
+6 Eu Tong Sen Street
+#01-23 The Central
+Si ngapore 059817
+Tel: +65 6438 9050
+GST Reg No.
+201815123M
+RECEIPT
+Receipt No.
+Date
+Time
+Table No.
+No. of Pax
+Cashi er
+EVAL'L003260905-0018
+2026-09-05
+12:41:33
+18
+Wei Ling
+QTY DESCRIPTION
+AMOUNT (SGD)
+Client lunch
+148.00
+Subtotal
+10% Service Charge
+9% GST
+148.00
+0.00
+0.00
+TOTAL SGD
+148.00
+PAYMENT
+Visa
+Card No.
+Approval Code
+Ref erence No.
+148.00
+**** **** **** 1234
+876543
+20260905124133876543
+Thank you !
+We look forward to serving you again.
+www. orchi ddumpli nghouse. com",True,vision,,120.4520829996909,Orchid,2026-09-05,148.0,SGD,,"[{""description"": ""Client lunch"", ""amount"": 148.0}]"
+DEV004,"METROCAB
+SINGAPORE
+Metrocab Singapore Pte. Ltd.
+20 Ang Mo Kio Street 63
+Si ngapore 569111
+Tel: 6555 8888
+GST Reg No.
+200410297W
+RECEIPT NO.
+EVAL006-20260908-0123
+DATE
+2026-09-08
+TIME
+14:42:18
+TAXI NO.
+SHD1234Z
+DRIVER ID
+876543
+PICK-UP
+14:10
+DROP-OFF
+14:41
+DISTANCE
+11.2 km
+DURATION
+00:31:05
+PAYMENT METHOD Visa Card
+CARD NO.
+**** **** **** 1234
+APPROVAL CODE
+654321
+REFERENCE NO.
+638290120123
+DESCRIPTION
+AMOUNT (SGD)
+Taxi fare
+21.00
+TOTAL
+SGD 21.00
+Includi ng GST (9%)
+SGD 1.73
+THANK YOU FOR TRAVELLING WITH US!
+24-Hour Feedback Line; 6555 8888
+www.metrocabsg. com, sg",True,vision,,132.2148749995904,METROCAB,2026-09-08,21.0,SGD,,"[{""description"": ""Taxi fare"", ""amount"": 21.0}]"
+DEV005,"HARBOUR
+FOOD HALL-
+SINGAPORE
+Harbour Food Hall Pte. Ltd.
+1 Maritiffle Square
+#B2-01 HarbourFront Centre
+Singapore 099253
+Tel: +65 6272 1184
+GST Reg No: 201912345M
+RECEIPT
+EVAL005-260907-0012
+2026-09-07
+18:47;23
+Amir
+HFS-03
+Receipt No.
+Date
+Time
+Cashier
+Terrninal
+QTY DESCRIPTION
+AMOUNT (SGD)
+Dinner
+42.00
+Subtotal
+10% Service Charge
+9% GST
+42.00
+0.00
+0.00
+TOTAL SGD
+42.00
+PAYMENT METHOD
+Visa
+Card No.
+**** **** **** 1234
+Approval Code: 543210
+Transaction ID: EVAL005120260907184723
+42.00
+Thank you !
+See you again soon.
+www. harbourfoodhall.sg",True,vision,,114.2421659997126,HARBOUR,2026-09-07,42.0,SGD,,"[{""description"": ""Dinner"", ""amount"": 42.0}]"
+DEV006,"omeTech
+Singapore
+HomeTech Singapore Pte. Ltd.
+10 Anson Road
+#12-15 International Plaza
+Singapore 079903
+Tel: +65 6420 1234
+GST Reg No.: 201812345M
+TAX INVOICE
+Receipt No.
+Date
+Time
+Cashier
+Store
+Terminal
+EVAL009202609110123
+2026-09-11
+14:38:52
+Lim Wei Jie
+HomeTech Singapore
+HTS02
+QTY
+DESCRIPTION
+AMOUNT ISGD)
+Monitor
+230.00
+SUBTOTAL
+GST (9%)
+SGD 230.00
+SGD 18.01
+TOTAL SGD
+230.00
+PAYMENT
+Visa
+Card No.
+Approval Code
+Reference No.
+SGD 230.00
+**** **** **** 1234
+876543
+202609111438529876543
+Thank you for shopping with HomeTech!
+Please retain this receipt for your records.
+W￿1. hometech. com. sg",True,vision,,115.77808299989556,omeTech,2026-09-11,230.0,SGD,,"[{""description"": ""Monitor"", ""amount"": 230.0}]"
+DEV007,"AI ASIA FORUM
+Shaping the Future with Intelligence
+RECEIPT / INVOICE
+Invoice No.
+AIAF-EVAL008-001246
+Date
+2026-09-10
+Bill To
+Ms. Jane Tan
+National University of Singapore
+21 Lower Kent Ridge Road
+Singapore 119077
+Email
+jane.tan@nus.edu.sg
+Al Asia Forum 2026
+Event
+Event Date
+2026-11-18 to 2026-11-20
+Venue
+Sands Expo & Convention Centre
+Marina Bay Sands, Singapore
+DESCRIPTION
+AMOUNT ISGD)
+Conference registration
+SGD 390.00
+TOTAL SGD 390.00
+Payment Method
+Credit Card (Visa}
+Transaction ID
+TXN20260910088654
+Payment Date
+2026-09-10 10..15 ISGTI
+Payment Status
+PAID
+Thank you for registering.
+We look forward to
+welcoming you to the foium.
+Amount Paid
+SGD 390.00
+Al Asia Forum
+Organised by Constellar Pte. Ltd.
+l HarbourFront Avenue, #09-02, Keppel Bay Tower,
+Singapore 098632
+Email.. info@aiasiaforum.com I Website.. WWbY.aiasiaforum.com",True,vision,,137.95145899985073,AI ASIA FORUM,2026-09-10,390.0,SGD,Ms. Jane Tan,"[{""description"": ""Conference registration"", ""amount"": 390.0}]"
+DEV008,"& GiftHub SG
+l O Anson Road
+#12-15 International Plaza
+Si ngapore 079903
+Tel , +65 6222 1234
+GST Reg No: 201812345M
+OATE
+TIME
+RECEIPT NO
+CASHIER
+STORE
+2026-09-12
+14:35:28
+EVALOI 009000123
+Sarah Tan
+Gi f tHub SG
+QTY DESCRIPTION
+AMOUNT (SGD)
+Gift card
+60.00
+SUBTOTAL
+GST (0%)
+SGD 60.00
+SGD 0.00
+TOTAL
+SGD 60.00
+PAYMENT METHOD
+Vi sa Card (Contactless)
+Card No: **** **** **** 1234
+Approval Code: 876543
+Transacti on ID: 202609121435289876
+No Si gnature Requi red
+SGD 60.00
+Thank you for your purchase!
+Please retain this receipt for your records.
+www. gi fthubsg. com",True,vision,,117.27249999967171,& GiftHub SG,2026-09-12,60.0,SGD,,"[{""description"": ""Gift card"", ""amount"": 60.0}]"
+DEV009,"Riverside
+Seafood
+Riverside Seafood Pte. Ltd.
+3A River Valley Road
+#01-02 Clarke Quay
+Singapore 179020
+Tel: +65 6733 9822
+GST Reg. No.
+201012345W
+TAX INVOICE
+EVAL007202609090123
+2026-09-09
+19:12:34
+18
+Receipt No.
+Date
+Tirne
+Table No.
+No. of Pax
+Cashier
+Kelvin
+QTY
+DESCRIPTION
+AMOUNT (SGD)
+Client dinner
+132.00
+Subtotal
+10% Service Charge
+9% GST
+132.00
+0.00
+0.00
+TOTAL SGD
+132.00
+PAYMENT
+Visa
+Card No.
+Approval Code
+Ref erence No.
+132.00
+**** **** **** 1234
+876543
+EVAL00720260909191234
+Thank you for dining with usl
+We look forward to serving you again.
+www. riversideseafood. cotTr.sg",True,vision,,114.5709579996037,Riverside,2026-09-09,132.0,SGD,,"[{""description"": ""Client dinner"", ""amount"": 132.0}]"
+DEV010,"AI ASIA SUMMIT
+192 Tampines Cent ral
+Singapore 589739
+GST Reg No: 239194579Q
+PAYMENT RECEIPT
+EVAL008-47678
+2026-09-10
+21:43:04
+Receipt No
+Date
+Time
+ITEM
+AMOUNT ( SGD )
+Conference registration
+TOTAL
+SGD 390.00
+Payment
+Txn Ref
+CORPORATE CARD
+799114957933
+Thank you for your purchase.
+Please retain this receipt for your records.",True,vision,,64.48062499930529,AI ASIA SUMMIT,2026-09-10,390.0,SGD,,"[{""description"": ""Conference registration"", ""amount"": 390.0}]"
+DEV011,"Spice Terrace
+48 Beach Road, Singapore 189677
+GST Reg. No. 199807452K
+Date: 2026-09-26
+Time: 20:14
+Receipt No: ST-20260926-0847
+DESCRIPTION
+AMOUNT (SGD)
+Dinner set
+46.00
+TOTAL
+SGD 46.00",True,vision,,31.136333999711496,Spice Terrace,2026-09-26,46.0,SGD,,"[{""description"": ""Dinner set"", ""amount"": 46.0}]"
+DEV012,"CityLink Taxi
+eridian Cabs Pte. Ltd.
+GST Reg. No. 200311098R
+Date: 2026-09-26
+Time: 08:52
+Receipt No: CL-20260926-1122
+DESCRIPTION
+AMOUNT (SGD)
+Taxi fare
+19.50
+TOTAL
+SGD 19.50",True,vision,,31.705375000456115,CityLink Taxi,2026-09-26,19.5,SGD,,"[{""description"": ""Taxi fare"", ""amount"": 19.5}]"
+DEV013,,True,,,0.0,,,,,,[]
+DEV014,"SkyPacific Airlines
+Tax Invoice
+IATA Code: SP
+GST Reg. No. 201044521E
+Date: 2026-09-27
+Time:
+Receipt No: SP-INV-88213
+DESCRIPTION
+AMOUNT (SGD)
+Business class airfare
+SIN/HKG return
+2150. 00
+TOTAL
+SGD 2150.00",True,vision,,35.26908299954812,SkyPacific Airlines,2026-09-27,2150.0,SGD,,"[{""description"": ""Business class airfare SIN/HKG return"", ""amount"": 2150.0}]"
+DEV015,"PixelForge Software Pte . Ltd.
+ElJonthly Subscription Invoice
+GST Reg. No. 201199003F
+Date: 2026-09-27
+Time:
+Receipt No: PF-2026-09-INV-451
+DESCRIPTION
+AMOUNT (SGD)
+Design Suite Pro
+ElJonthly plan
+75.00
+TOTAL DUE
+SGD 75.00",True,vision,,40.53875000045082,PixelForge Software Pte . Ltd.,2026-09-27,75.0,SGD,,"[{""description"": ""Design Suite Pro ElJonthly plan"", ""amount"": 75.0}]"
+DEV016,"SG Events Box Office
+Ticketing Services
+GST Reg. No. 200733210D
+Date: 2026-09-28
+Time: 19:00
+Receipt No: BX-556210
+DESCRIPTION
+AMOUNT (SGD)
+Concert tickets x2
+240.00
+TOTAL
+SGD 240.00",True,vision,,37.688958999751776,SG Events Box Office,2026-09-28,240.0,SGD,,"[{""description"": ""Concert tickets x2"", ""amount"": 240.0}]"
+DEV017,"Securestore Logistics
+Trlarehousing & Storage Services
+GST Reg. No. 200955871A
+Date: 2026-09-28
+Time:
+Receipt No: SS-77102
+DESCRIPTION
+AMOUNT (SGD)
+Temporary storage
+demo equipment 12 days)
+180.00
+TOTAL
+SGD 180. 00",True,vision,,35.42116700009501,Securestore Logistics,2026-09-28,180.0,SGD,,"[{""description"": ""Temporary storage demo equipment 12 days)"", ""amount"": 180.0}]"
+DEV018,"Bayview Kitchen
+12 Marina View, Singapore 018961
+GST Reg. No. 200612345H
+Date: 2026-09-29
+Time: 19:45
+Receipt No: BK-990231
+DESCRIPTION
+AMOUNT (SGD)
+Dinner
+140.00
+Tip Ivoluntaryl
+25.00
+TOTAL
+SGD 165. 00",True,vision,,33.496666999781155,Bayview Kitchen,2026-09-29,165.0,SGD,,"[{""description"": ""Dinner"", ""amount"": 140.0}, {""description"": ""Tip Ivoluntaryl"", ""amount"": 25.0}]"
+DEV019,"Riverside Grill
+88 Robertson Quay, Singapore 238245
+GST Reg. No. 200455213C
+Date: 2026-09-30
+Time: 19:20
+Receipt No: RG-330187
+DESCRIPTION
+AMOUNT I SGD)
+Set dinner for one
+300.00
+TOTAL
+SGD 300. 00",True,vision,,30.985291999968467,Riverside Grill,2026-09-30,300.0,SGD,,"[{""description"": ""Set dinner for one"", ""amount"": 300.0}]"
+DEV020,"Harbourfront Bistro
+l ElJaritime Square, Singapore 099253
+GST Reg. No. 200812004F
+Date: 2026-09-30
+Time: 20:05
+Receipt No: HB-771029
+DESCRIPTION
+AMOUNT I SGD)
+Dinner
+130.00
+TOTAL
+SGD 130. 00",True,vision,,35.06470900083514,Harbourfront Bistro,2026-09-30,130.0,SGD,,"[{""description"": ""Dinner"", ""amount"": 130.0}]"
+EVAL001,"Global Language Solutions Pte. Ltd.
+Tax Invoice
+GST Reg. No. 200233114
+Date: 2026-09-03
+Time:
+Receipt No: GLS-INV-30281
+DESCRIPTION
+AMOUNT I SGD)
+Translation and interpretation services
+220.00
+TOTAL
+SGD 220. 00",True,vision,,30.842333000691724,Global Language Solutions Pte. Ltd.,2026-09-03,220.0,SGD,,"[{""description"": ""Translation and interpretation services"", ""amount"": 220.0}]"
+EVAL002,"i ()11.% I
+13()/
+Toast Box
+Raff les City
+252 North Bridge Road
+#BI-35 Raff les City Shopping Centre
+Singapore 179103
+Tel: 6336 1128
+GST Reg No: M90367171A
+DATE
+RECEIPT NO
+CASHIER
+pos
+2026-09-04 19:12:18
+TBRC260904191218-0017
+Nurul
+RC-03
+QTY ITEM
+AMOUNT (SGD)
+Hainanese Chicken Rice Set
+Regular Iced Lernon Tea
+39.50
+SUB TOTAL
+GST (9%)
+39.50
+3.26
+TOTAL
+SGD 39.50
+PAYMENT METHOD
+Visa
+CARD NO; **** **** **** 4242
+AUTH CODE: 123456
+TID.. 53008763
+SGD 39.50
+Thank you I
+Please come agaln.
+www. toastbox. com",True,vision,,104.11199999998644,i ()11.% I,2026-09-04,39.5,SGD,,"[{""description"": ""Hainanese Chicken Rice Set Regular Iced Lernon Tea"", ""amount"": 39.5}]"
+EVAL003,"CRYSTAL JADE
+Crystal Jade Restaurant
+2 Orchard Turn, #04-12 ION Orchard
+Singapore 238801
+Tel: +65 6509 8228
+GST Reg No: M4-0071122-9
+RECEIPT
+Receipt No.
+Date:
+R-260905-08841
+2026-09-05
+Tirne:
+19:20:47
+Table:
+14
+Cove rs:
+Qty
+Description
+Arnount (SGD)
+Dinner Set (Set Dinner for 2)
+172.00
+Subtotal
+172.00
+1096 Service Charge
+996 GST
+0.00
+0.00
+TOTAL SGD
+172.00
+Payrnent Method:
+Visa
+Card No.
+Approval Code:
+Payrnent Status:
+172.00
+**** **** **** 1234
+552091
+APPROVED
+Thank you. See you again.
+Please retain this receipt for your records.
+www. crystalj ade. com. sg",True,vision,,73.96062499992695,CRYSTAL JADE,2026-09-05,172.0,SGD,,"[{""description"": ""Dinner Set (Set Dinner for 2)"", ""amount"": 172.0}]"
+EVAL004,"Challenger Technologies Limited
+313 Orchard Road
+#03-01/02/03
+313@Somerset
+Singapore 238895
+Tel: 6882 8800
+GST Reg No. 200106888M
+TAX INVOICE
+Receipt No.
+Date
+Time
+Store
+Cashier
+R-260906-018732
+2026-09-06
+14:27:35
+313 Somerset
+CYNTHIA
+Description
+Qty
+Amount (SGD)
+USB-C dock
+189.00
+Subtotal
+GST (9%)
+189.00
+15.55
+TOTAL SGD
+189.00
+Payment Method
+Visa Contactless
+Card No.
+Auth Code 081732
+Txn Ref
+660906142734
+Approved 00
+189.00
+1234
+Thank you for shopping with Challenger I
+Goods sold are not refundable.",True,vision,,105.20283299956645,Challenger Technologies Limited,2026-09-06,189.0,SGD,,"[{""description"": ""USB-C dock"", ""amount"": 189.0}]"
+EVAL005,"Food Republic
+#B1-10, Vivocity
+l HarbourFront Walk
+Singapore 098585
+Tel: 6276 0110
+GST Reg No: 200105512K
+RECEIPT
+FR260907-1847
+2026-09-07
+19:14:32
+Kiosk 03
+Food Republic Vivocity
+Receipt No.
+Date
+Time
+Cashier
+Outlet
+Item
+Amount (SGD )
+Dinner
+42.00
+SUBTOTAL
+GST (9%)
+42.00
+3.46
+TOTAL
+SGD 42.00
+PAYMENT
+Visa Card
+Card No.
+**** **** **** 1234
+Approval Code: 876543
+Transaction No.
+000184732019
+Payment Status: APPROVED
+SGD 42.00
+Thank you !
+Please come again.",True,vision,,106.73325000061595,Food Republic,2026-09-07,42.0,SGD,,"[{""description"": ""Dinner"", ""amount"": 42.0}]"
+EVAL006,"COMFORTDELGRO
+TAXI
+Comf ortDelGro Taxi
+205 Braddell Road
+Singapore 579701
+UEN: 200300002K
+RECEIPT NO.
+TX120260908012345
+DATE
+2026-09-08
+TIME
+14:32;18
+TAXI NO.
+SHB1234A
+DRIVER ID
+567890
+PICK-UP
+10:15
+DROP-OFF
+10'.32
+DISTANCE
+12.4 km
+DURATION
+00:17:23
+PAYMENT METHOD Visa Card
+CARD NO.
+**** **** **** 1234
+APPROVAL CODE
+654321
+REFERENCE NO.
+638291028412
+DESCRIPTION
+AMOUNT (SGD)
+Taxi
+21.00
+TOTAL
+SGD 21.00
+Including GST (9%)
+SGD 1.73
+THANK YOU FOR TRAVELLING WITH US!
+24-Hour Feedback Line: 6552 1111
+www. cdgtaxi. com. sg",True,vision,,110.69087499981833,COMFORTDELGRO,2026-09-08,21.0,SGD,,"[{""description"": ""Taxi"", ""amount"": 21.0}]"
+EVAL007,"SKAI
+Skai Restaurant, Swissotel The Stamford
+2 Stamford Road, Level 70
+Singapore 178882
+Tel: +65 6431 6156
+GST Reg No: M5-0043390-2
+TAX INVOICE
+Receipt No.
+Date:
+SK-260909-3317
+2026-09-09
+Tirne:
+20:05:11
+Table:
+22
+Cove rs:
+Qty
+Description
+Arnount (SGD)
+Set Dinner Menu (8 guests)
+Corkage / Beverage Service
+624.00
+56.00
+Subtotal
+680.00
+Service Charge {incl. )
+GST lincl. )
+0.00
+0.00
+TOTAL SGD
+680.00
+Payrnent Method:
+Arnex
+Card No.
+Approval Code:
+Payrnent Status:
+680.00
+**** ****** *1009
+410287
+APPROVED
+Thank you for dining with us.
+Please retain this receipt for your records.",True,vision,,75.4211249995933,SKAI,2026-09-09,680.0,SGD,,"[{""description"": ""Set Dinner Menu (8 guests)"", ""amount"": 624.0}, {""description"": ""Corkage / Beverage Service"", ""amount"": 56.0}]"
+EVAL008,"AI ASIA SUMMIT
+Connecting Minds, Building the Future
+RECEIPT
+Receipt Number
+Date
+AAS-2026-0910-001245
+2026-09-10
+Bill To
+Ms. Jane Tan
+National University of Singapore
+21 Lower Kent Ridge Road
+Singapore 119077
+jane.tan@nus.edu.sg
+Al Asia Summit 2026
+Email
+Event
+Event Date
+2026-11-18 to 2026-11-20
+Venue
+Sands Expo & Convention Centre
+Marina Bay Sands, Singapore
+DESCRIPTION
+AMOUNT {SGD)
+Conference registration
+SGD 390.00
+TOTAL SGD 390.00
+Payment Status
+PAID
+Payment Method
+Credit Card (Visa)
+Transaction ID
+TXN20260910081245
+Payment Date
+2026-09-10 10..15 ISGT)
+Thank you for registering.
+We look forward to
+welcoming you to the summit.
+Amount Paid
+SGD 390.00
+Al Asia Summit
+c/0 Constellar Pte. Ltd.
+1 HarbourFront Avenue, #09-02, Keppel Bay Tower,
+Singapore 098632
+Email.. info@aiasiasummit.com | Website.. www.aiasiasummit.eom",True,vision,,137.93033299953095,AI ASIA SUMMIT,2026-09-10,390.0,SGD,Ms. Jane Tan,"[{""description"": ""Conference registration"", ""amount"": 390.0}]"
+EVAL009,"NEWTON TECH
+Newton Technology Store Pte. Ltd.
+301 Serangoon Road, #02-18
+Singapore 218108
+Tel: +65 6291 4420
+GST Reg. No.
+201900219E
+TAX INVOICE
+Receipt No.
+Date
+NT2026091102214
+2026-09-11
+Tirne
+11:12:03
+Store
+SERANGOON
+Cashier
+0447
+Qty
+Description
+Arnount (SGD)
+Ergonornic Of f ice Chair
+240.00
+Subtotal
+240.00
+GST 1996)
+19.82
+TOTAL SGD
+240.00
+PAYMENT
+Visa
+Card No.
+Approval Code
+240.00
+**** **** **** 5521
+902214
+Thank you for shopping with us.
+Goods sold are not returnable if opened.
+Please retain this receipt for your records.",True,vision,,80.06220799961739,NEWTON TECH,2026-09-11,240.0,SGD,,"[{""description"": ""Ergonornic Of f ice Chair"", ""amount"": 240.0}]"
+EVAL010,"BEAST & BUTTERFLIES
+Beast & Butterflies
+40 Craig Road, #01-01
+Singapore 089688
+Tel: +65 6221 3595
+GST Reg No: M6-0018827-1
+RECEIPT
+Receipt No.
+Date:
+BB-260912-0093
+2026-09-12
+Tirne:
+19:40:02
+Table:
+Cove rs:
+10
+Qty
+Description
+Arnount (SGD)
+Set Menu (10 guests, product launch + tearn dlthéo)
+Subtotal
+410.00
+1096 Service Charge
+996 GST
+0.00
+0.00
+TOTAL SGD
+410.00
+Payrnent Method:
+Mastercard
+Card No.
+Approval Code:
+Payrnent Status:
+410.00
+**** **** **** 7743
+331209
+APPROVED
+Thank you. See you again.
+Please retain this receipt for your records.",True,vision,,74.85412499954691,BEAST & BUTTERFLIES,2026-09-12,410.0,SGD,,"[{""description"": ""Set Menu (10 guests, product launch + tearn dlth\u00e9o)"", ""amount"": 410.0}]"
+EVAL011,"ACTIVE SPORTS
+238 Orchard Road, #03-18,
+Singapore 238851
+GST Reg No.
+200912345M
+Date
+Time
+Receipt No.
+2026-09-13
+15:12:09
+EVALOII-51324
+Item
+Qty
+Amount (SGD)
+Running shoes
+79.00
+Subtotal (SGD)
+GST (9%)
+79.00
+7,11
+Total (SGD)
+79.00
+Payment Method
+Visa
+Card Number
+Approval Code: 876543
+**** **** **** 1234
+Thank you for shopping with Active Sports.",True,vision,,93.2137910003803,ACTIVE SPORTS,2026-09-13,79.0,SGD,,"[{""description"": ""Running shoes"", ""amount"": 79.0}]"
+EVAL012,"BAYSIDE GRILL
+12 Marina Boulevard
+#01-02, Singapore 018982
+Tel: 6777 8899
+GST Reg No.
+201234567K
+TAX INVOICE
+2026-09-14
+19:23:45
+EVAL012-58871
+T12
+Date
+Time
+Receipt No.
+Table No.
+Item
+Amount (SGD)
+Food
+Wine
+120.00
+25,00
+Subtotal (SGD)
+GST (9%)
+145.00
+0.00
+Total (SGD)
+145.00
+Payment Method
+Visa
+Card Number
+**** **** **** 1234
+Approval Code: 876543
+Thank you and
+have a great day.",True,vision,,90.33108299991,BAYSIDE GRILL,2026-09-14,145.0,SGD,,"[{""description"": ""Food"", ""amount"": 120.0}, {""description"": ""Wine"", ""amount"": 25.0}]"
+EVAL013,"Arnber Lounge Bistro
+77 Amoy Street, Singapore 069896
+GST Reg. No. 200456781K
+Date: 2026-09-15
+Time: 21:10
+Receipt No: AL-88210
+DESCRIPTION
+AMOUNT I SGD)
+Dinner and drinks
+95.00
+TOTAL
+SGD 95.00",True,vision,,38.73420800027816,Arnber Lounge Bistro,2026-09-15,95.0,SGD,,"[{""description"": ""Dinner and drinks"", ""amount"": 95.0}]"
+EVAL014,"PAPERMARKET SINGAPORE
+211 Henderson Road, #OI-02,
+Henderson Industrial Park,
+Singapore 159552
+GST Reg No.
+201912345M
+Date
+Time
+Receipt No.
+2026-09-19
+14.08.22
+EVAL014-58437
+Item
+Qty
+Amount (SGD)
+Poster board
+Markers
+25.00
+38.20
+Subtotal (SGD)
+GST (9%)
+63.20
+5.69
+Total (SGD)
+63.20
+Payment Method
+NetBanking
+Bank: DBS/POSB
+Approval Code: 912345
+Ref No: 20260919140822
+Trace ID: 123456789012
+Thank you for shopping with Papermarket I
+www.papermarket.com. sg",True,vision,,102.73179199975857,PAPERMARKET SINGAPORE,2026-09-19,63.2,SGD,,"[{""description"": ""Poster board"", ""amount"": 25.0}, {""description"": ""Markers"", ""amount"": 38.2}]"
+EVAL015,"APERTURE STUDIO
+Aperture Studio Pte Ltd
+18 Enggor Street #03-05
+Singapore 079718
+Tel: +65 6221 4487
+GST Reg No: M2-0088342-1
+TAX INVOICE
+Receipt No.
+AS-260515-2209
+Date
+2026-05-15
+Time
+14:26:10
+studio
+OUTRAM
+Cashier
+0231
+oty
+Description
+Amount I SGD)
+Corporate Headshot Session
+180.00
+Subtotal
+180.00
+GST 19%)
+16.20
+TOTAL SGD
+180.00
+PAYMENT
+NETS
+180.00
+Reference No.
+20260515142610
+Thank you for shopping with us.
+Please retain this receipt for your records.",True,vision,,74.65475000026345,APERTURE STUDIO,2026-05-15,180.0,SGD,,"[{""description"": ""Corporate Headshot Session"", ""amount"": 180.0}]"
+EVAL016,"CENTRAL SUITES
+Central Suites Hotel
+8 Shenton Way
+Singapore 068811
+Tel: +65 6227 8800
+GST Reg No: M3-0029914-6
+TAX INVOICE
+Folio No.
+CS-260921-1187
+Date:
+2026-09-21
+Guest Narne:
+R. Krishnan
+Roorn No.
+1207
+Nights:
+Qty
+Description
+Arnount (SGD)
+Roorn Charge
+I night
+298.00
+Subtotal
+298.00
+Service Charge { 1096)
+GST 1996)
+0.00
+0.00
+TOTAL SGD
+298.00
+Payrnent Method:
+Corporate Account
+Approval Code:
+298.00
+771845
+Thank you for staying with us.
+Please retain this receipt for your records.",True,vision,,74.26966599996376,CENTRAL SUITES,2026-09-21,298.0,SGD,R. Krishnan,"[{""description"": ""Roorn Charge I night"", ""amount"": 298.0}]"
+EVAL017,"Novena Stationery Mart
+238 Thomson Road, Singapore 307683
+GST Reg. No. 200198765C
+Date: 2026-09-22
+Time: 17:40
+Receipt No: NSM-55021
+DESCRIPTION
+AMOUNT I SGD)
+Assorted home of f ice supplies
+85.00
+TOTAL
+SGD 85.00",True,vision,,37.63920799974585,Novena Stationery Mart,2026-09-22,85.0,SGD,,"[{""description"": ""Assorted home of f ice supplies"", ""amount"": 85.0}]"
+EVAL018,"KOPI CENTRAL
+21 Tanjong Pagar Road,
+#01-02, Singapore 088444
+GST Reg No.
+201234567M
+Date
+Time
+Receipt No.
+2026-09-23
+09.'41:52
+EVAL018-78216
+Item
+Qty
+Amount (SGD)
+Kopi O
+Kaya Toast Set
+Soft Boiled Eggs (2pcs) I
+2.20
+4.80
+2.20
+Subtotal (SGD)
+GST (9%)
+9.20
+0.83
+Total (SGD)
+Payment Method
+NETS
+Approval Code: 673829
+Thank you for dining with us!
+Please come again.",True,vision,,92.1448330000203,KOPI CENTRAL,2026-09-23,,SGD,,"[{""description"": ""Kopi O"", ""amount"": 2.2}, {""description"": ""Kaya Toast Set"", ""amount"": 4.8}, {""description"": ""Soft Boiled Eggs (2pcs) I"", ""amount"": 2.2}]"
+EVAL019,"Fa irmart
+12 West Coast Road, #BI-07,
+Singapore 128599
+GST Reg No.
+200812345M
+Date
+Time
+Receipt No.
+2026-09-24
+10:37:18
+EVAL019-48271
+Iteffl
+Qty
+Amount (SGD)
+Printer paper
+Personal snacks
+16.50
+15.00
+Subtotal (SGD)
+GST (9%)
+31.50
+2,84
+Total (SGD)
+31.50
+Payment Method
+Visa
+Card Number
+**** **** **** 1234
+Approval Code: 654321
+Thank you for shopping with Fairmart.",True,vision,,91.03383399997256,Fa irmart,2026-09-24,31.5,SGD,,"[{""description"": ""Printer paper"", ""amount"": 16.5}, {""description"": ""Personal snacks"", ""amount"": 15.0}]"
+EVAL020,"METROCAB KL
+No. 12, Jalan Sultan Ismail,
+50250 Kuala Lumpur,
+Wilayah Persekutuan Kuala Lumpur
+Malaysia
+WIO-1808-31022336
+SST Reg No.
+Date
+Time
+Trip Ref
+Driver ID
+Taxi No.
+2026-09-25
+21:37:58
+MKL25092521375889
+MC9876
+HWE 1234
+Item
+Amount (MYR)
+Taxi fare
+55.00
+Total (MYR)
+MYR 55.00
+Paid by
+Payfflent Ref
+Approval Code
+Payment Date
+e-wallet
+TNG2026092521375889
+654321
+2026-09-25 21: 38.02
+Thank you for riding with Metrocab KL.
+Hotline; +603-1234 5678
+www.metrocabkl. coffl.my
+Have a safe journey.",True,vision,,103.86841699983052,METROCAB KL,2026-09-25,55.0,MYR,,"[{""description"": ""Taxi fare"", ""amount"": 55.0}]"

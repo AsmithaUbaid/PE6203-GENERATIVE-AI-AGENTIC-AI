@@ -1,4 +1,0 @@
-model,decision_accuracy,mean_latency_ms,mean_cost_usd
-openai/gpt-4.1-mini,0.8,740.2641603256983,0.0006688400000000001
-openai/gpt-4o-mini,0.8,834.4821589663334,0.0006367
-google/gemini-2.5-flash,0.95,803.8887572956496,0.00066954

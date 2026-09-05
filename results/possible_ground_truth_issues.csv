@@ -1,0 +1,7 @@
+case_id,existing_expected_decision,model_decision,relevant_policy_ids,why_flagged
+EVAL002,APPROVE,REJECT,['POL-02'],"Model cited exactly the expected policy_ids (perfect grounding) but still reached a different decision -- worth manual review, not an automatic relabel."
+EVAL007,REQUEST_INFORMATION,ESCALATE,"['POL-03', 'POL-30']","Model cited exactly the expected policy_ids (perfect grounding) but still reached a different decision -- worth manual review, not an automatic relabel."
+EVAL010,REQUEST_INFORMATION,ESCALATE,"['POL-03', 'POL-27']","Model cited exactly the expected policy_ids (perfect grounding) but still reached a different decision -- worth manual review, not an automatic relabel."
+EVAL012,APPROVE,REQUEST_INFORMATION,"['POL-03', 'POL-04']","Model cited exactly the expected policy_ids (perfect grounding) but still reached a different decision -- worth manual review, not an automatic relabel."
+EVAL013,REQUEST_INFORMATION,ESCALATE,"['POL-03', 'POL-04']","Model cited exactly the expected policy_ids (perfect grounding) but still reached a different decision -- worth manual review, not an automatic relabel."
+EVAL019,REQUEST_INFORMATION,REJECT,"['POL-09', 'POL-15']","Model cited exactly the expected policy_ids (perfect grounding) but still reached a different decision -- worth manual review, not an automatic relabel."

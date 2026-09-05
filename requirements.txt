@@ -8,5 +8,7 @@ python-dotenv
 Pillow
 tiktoken
 sentence-transformers
+scikit-learn
 reportlab
 pypdf
+rank_bm25

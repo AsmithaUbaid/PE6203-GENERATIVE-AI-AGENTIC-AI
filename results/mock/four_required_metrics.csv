@@ -1,4 +1,0 @@
-variant,compliance_decision_accuracy,expense_understanding_accuracy,policy_grounding_accuracy,policy_grounding_n,safe_uncertainty_handling,safe_uncertainty_n
-A,0.75,,0.0,19,0.7,10
-B,0.9,0.875,0.0,19,0.9,10
-C,0.8,0.875,0.42105263157894735,19,1.0,10

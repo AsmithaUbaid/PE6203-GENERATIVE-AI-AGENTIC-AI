@@ -1,0 +1,6 @@
+case_id,failure_type,affected_module,likely_cause
+EVAL002,OVER_REQUEST_INFORMATION_ERROR,Module 2,Model asked for a fact that was already present in the evidence.
+EVAL008,OVER_ESCALATION_ERROR,Module 2,Model escalated a case the applicable policy did not require human review for.
+EVAL010,DECISION_BOUNDARY_ERROR,Module 2,Model confused REQUEST_INFORMATION / ESCALATE / REJECT.
+EVAL012,OVER_REQUEST_INFORMATION_ERROR,Module 2,Model asked for a fact that was already present in the evidence.
+EVAL005,OVER_REQUEST_INFORMATION_ERROR,Module 2,Model asked for a fact that was already present in the evidence.
