@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+pillow
+pytesseract
+rank-bm25
+sentence-transformers
+scikit-learn
+openai

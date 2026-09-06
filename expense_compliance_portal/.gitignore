@@ -1,0 +1,14 @@
+# API secrets
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
