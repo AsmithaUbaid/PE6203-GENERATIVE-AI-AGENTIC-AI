@@ -158,6 +158,40 @@ def ensure_claim_columns(df):
         if column not in df.columns:
             df[column] = default
 
+    # Force text columns to accept strings.
+    # Empty CSV columns may otherwise be inferred as float by pandas.
+    text_columns = [
+        "claim_id",
+        "employee_id",
+        "description",
+        "merchant",
+        "date",
+        "currency",
+        "decision",
+        "reason",
+        "policy_ids",
+        "status",
+        "missing_information",
+        "finance_decision",
+        "reviewer_note",
+        "reviewed_at",
+        "submitted_at"
+    ]
+
+    for column in text_columns:
+        df[column] = df[column].fillna("").astype("object")
+
+    # Keep numeric fields numeric
+    df["total_amount"] = pd.to_numeric(
+        df["total_amount"],
+        errors="coerce"
+    )
+
+    df["confidence"] = pd.to_numeric(
+        df["confidence"],
+        errors="coerce"
+    ).fillna(0.0)
+
     return df
 
 
