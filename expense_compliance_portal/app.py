@@ -36,7 +36,7 @@ DATA_DIR = ROOT / "data"
 POLICY_FILE = DATA_DIR / "expense_policies_plain.csv"
 CLAIMS_FILE = DATA_DIR / "claims.csv"
 
-MODULE2_MODEL = "openai/gpt-4.1-mini"
+MODULE2_MODEL = "google/gemini-3.1-flash-lite"
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 
 BEST_K = 3
