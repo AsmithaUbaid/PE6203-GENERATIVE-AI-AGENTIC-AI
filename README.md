@@ -172,3 +172,9 @@ expense_compliance_project/
   for the reasoning and Section 8 for the measured numbers).
 - **Manager/supervisor approval status is intentionally excluded** from every decision path; see the
   scope decision under Guardrails above.
+
+## 🚀 Live Application
+
+Try the deployed ExpenseAI Corporate Expense Compliance Checker:
+
+**[Open ExpenseAI →](https://pe6203-generative-ai-agentic-ai-ydhmtco8l5zeybxj48skmn.streamlit.app/)**
