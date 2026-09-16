@@ -1,4 +1,4 @@
-# AI Corporate Expense Compliance Checker
+# AI Corporate Expense Compliance Checker — ExpenseGuard AI
 
 An employee submits a receipt image plus a short description of the business purpose. The system
 returns one of **APPROVE / REJECT / REQUEST_INFORMATION / ESCALATE**, a short reason, and the
@@ -8,6 +8,15 @@ silent guessing and no LLM judging its own work.
 The authoritative build is **[notebooks/expense_compliance_final_experiment.ipynb](notebooks/expense_compliance_final_experiment.ipynb)**.
 It is a single, reproducible notebook: every number it reports is computed by code in that notebook,
 never hand-typed.
+
+## Deliverables
+
+| Item | Link |
+|---|---|
+| **Final report (PDF)** | [submissions/ExpenseGuard_AI_FINAL_REPORT.pdf](submissions/ExpenseGuard_AI_FINAL_REPORT.pdf) |
+| **Final presentation (PPTX)** | [submissions/Genai and agentic ai final PPT.pptx](submissions/Genai%20and%20agentic%20ai%20final%20PPT.pptx) |
+| **Live prototype** | [pe6203-generative-ai-agentic-ai-ydhmtco8l5zeybxj48skmn.streamlit.app](https://pe6203-generative-ai-agentic-ai-ydhmtco8l5zeybxj48skmn.streamlit.app/) |
+| **Repository** | [github.com/AsmithaUbaid/PE6203-GENERATIVE-AI-AGENTIC-AI](https://github.com/AsmithaUbaid/PE6203-GENERATIVE-AI-AGENTIC-AI) |
 
 ## Architecture
 
