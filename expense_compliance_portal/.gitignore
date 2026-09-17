@@ -1,0 +1,22 @@
+# API secrets
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+# Streamlit portal
+expense_compliance_portal/venv/
+expense_compliance_portal/.venv/
+expense_compliance_portal/.streamlit/secrets.toml
+
+__pycache__/
+*.pyc
+.DS_Storecd ~/Desktop/PE6203-GENERATIVE-AI-AGENTIC-AI
